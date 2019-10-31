@@ -1,0 +1,2 @@
+# BullshitGenerator-handwrite
+狗屁不通文章生成器带GUI图形界面的手写体生成
